@@ -3,7 +3,7 @@
 #8WeekSQLChallenge using MS SQL Server
 
 
-## 📕 Contents
+## Contents
 Case Study 2 - Pizza Runner
 
 Case Study 4 - Data Bank
