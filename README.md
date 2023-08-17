@@ -11,7 +11,7 @@ Case Study 4 - Data Bank
 
 # Case Study 2 - Pizza Runner
 
-     ![image](https://github.com/olajumokeabe/Danny-Ma-8-Week-Challenge/assets/125363157/9b0734e6-ab2b-4545-811c-8cab1bece3ea)
+  ![2](https://github.com/olajumokeabe/Danny-Ma-8-Week-Challenge/assets/125363157/53bad3f9-e97a-441d-8028-8c1f578756cc)    
 
 Danny was scrolling through his Instagram feed when something really caught his eye - “80s Retro Styling and Pizza Is The Future!”
 
@@ -22,7 +22,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 
 # Case Study 4 - Data Bank
 
-      ![image](https://github.com/olajumokeabe/Danny-Ma-8-Week-Challenge/assets/125363157/38e257f2-29f3-40d1-b9b5-1c31005b3e7a)
+![image](https://github.com/olajumokeabe/Danny-Ma-8-Week-Challenge/assets/125363157/38e257f2-29f3-40d1-b9b5-1c31005b3e7a)
 
 There is a new innovation in the financial industry called Neo-Banks: new aged digital only banks without physical branches.
 
