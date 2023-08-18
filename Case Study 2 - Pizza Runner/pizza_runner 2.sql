@@ -286,7 +286,7 @@ SELECT
 FROM
     pizza_recipes pr
 JOIN
-    pizza_recipes_unpivoted pu ON pr.pizza_id = pu.pizza_id
+    #toppingspivot t ON pr.pizza_id = t.pizza_id
 JOIN
     pizza_toppings pt ON pu.pizza_toppings_id = pt.topping_id
 GROUP BY
