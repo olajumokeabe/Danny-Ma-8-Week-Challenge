@@ -24,6 +24,7 @@ SELECT *
 FROM #customer_orders_temp;
 
 
+
 /*Create a temporary table #runner_orders_temp from runner_orders table:
 Convert 'null' text values in pickup_time, duration and cancellation into null values.
 Cast pickup_time to DATETIME.
